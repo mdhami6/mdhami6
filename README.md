@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Manveer Dhami,
+I am currently attending college at Seneca College and hope to do well in OPS435!
+
+
 <!--
 **mdhami6/mdhami6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
