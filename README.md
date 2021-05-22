@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Manveer Dhami,
-I am currently attending college at Seneca College and hope to do well in OPS435!
+I am currently attending college and hope to do well in OPS435!
 
 
 <!--
